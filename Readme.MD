@@ -1,3 +1,7 @@
+VIDEO DE YOUTUBE:https://youtu.be/Kh8EJiPOHSs
+CARPETA DRIVE CON PROYECTO ENTERO: https://drive.google.com/drive/folders/1G2xWwu_iFAMS1jmH8XtjkV0kgyQrdiMv?usp=sharing
+
+
 Bienvenidos 
 les presento mi  proyecto 01 de Data Engineering!
 
